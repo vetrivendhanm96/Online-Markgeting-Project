@@ -32,7 +32,7 @@ $dbcon=mysqli_connect('localhost','root','','goods');
 <a href="dspform.php" class="w3-button w3-blue">Back</a>
 </div>
 
-    <h1>ADD products:</h1>
+    <h1>ADD materials:</h1>
 <form action="" method="POST">
     sys_id:<input type="text" name="sys"><br><br>
     prod_name:<input type="text" name="prod"><br><br>
